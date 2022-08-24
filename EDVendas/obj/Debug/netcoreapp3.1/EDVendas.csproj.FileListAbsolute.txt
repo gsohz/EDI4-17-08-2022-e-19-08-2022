@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\EDVendas\EDVendas\bin\Debug\netcoreapp3.1\EDVendas.exe
+C:\Users\gabri\source\repos\EDVendas\EDVendas\bin\Debug\netcoreapp3.1\EDVendas.deps.json
+C:\Users\gabri\source\repos\EDVendas\EDVendas\bin\Debug\netcoreapp3.1\EDVendas.runtimeconfig.json
+C:\Users\gabri\source\repos\EDVendas\EDVendas\bin\Debug\netcoreapp3.1\EDVendas.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\EDVendas\EDVendas\bin\Debug\netcoreapp3.1\EDVendas.dll
+C:\Users\gabri\source\repos\EDVendas\EDVendas\bin\Debug\netcoreapp3.1\EDVendas.pdb
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.AssemblyInfo.cs
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.dll
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.pdb
+C:\Users\gabri\source\repos\EDVendas\EDVendas\obj\Debug\netcoreapp3.1\EDVendas.genruntimeconfig.cache
